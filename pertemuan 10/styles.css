@@ -1,0 +1,31 @@
+p {
+    color: blue;
+}
+p.error {
+    color: red;
+}
+p.success.feedback {
+    color: green;
+    border: 5px solid yellow;
+}
+#top-container {
+    background-color: lightgrey;
+}
+#bottom-container {
+    background-color: lightgreen;
+}
+div .error {
+    color: red;
+}
+a[href] {
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: yellow;
+}
+a[href*="facebook"] {
+    background-color: green;
+}
+a[herf$=".ac.id"] {
+    background-color: purple;
+}

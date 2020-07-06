@@ -1,0 +1,42 @@
+h1 {
+    margin-top: 55px;
+}
+div.nav{
+    width: 50pc;
+    height: 50px;
+    background-color: hotpink;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+div.container1{
+    background-color: brown;
+    position: relative;
+    width: 50pc;
+    height: 300px;
+}
+div.container2{
+    width: 400px;
+    height: 200px;
+    background-color: cyan;
+    position: sticky;
+    top: 30pc;
+}
+div.box1{
+    width: 100px;
+    height: 100px;
+   background-color: red; 
+   position: absolute;
+   right: 50px;
+}
+div.box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+div.box3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}

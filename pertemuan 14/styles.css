@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem; /*100% = 16px */
+    text-align: center;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5.625rem;
+    width: 50%;
+    margin: 0 auto;
+}
+p {
+    font-family: serif;
+}

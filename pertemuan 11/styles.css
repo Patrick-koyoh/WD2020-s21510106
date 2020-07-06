@@ -1,0 +1,7 @@
+img {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 20px;
+}
